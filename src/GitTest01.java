@@ -34,5 +34,10 @@ public class GitTest01 {
          * push 代码演示操作
          */
         System.out.println("push test");
+        
+        /**
+         * 在此处手动加上一行代码，演示远程库更新以后的代码拉取
+        */
+        System.out.println("pull test");
     }
 }
