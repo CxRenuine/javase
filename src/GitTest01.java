@@ -21,8 +21,14 @@ public class GitTest01 {
         System.out.println("hello hot-fix change01");
 
         /**
+         * 在hot-fix分支上对代码进行修改为了演示代码冲突
+         */
+        System.out.println("hello hot-fix conflictChange");
+
+        /**
          * 在master分支上对代码进行修改演示代码冲突
          */
         System.out.println("master changeConflict");
+    }
     }
 }
