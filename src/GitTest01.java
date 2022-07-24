@@ -29,5 +29,10 @@ public class GitTest01 {
          * 在master分支上对代码进行修改演示代码冲突
          */
         System.out.println("master changeConflict");
+
+        /**
+         * push 代码演示操作
+         */
+        System.out.println("push test");
     }
 }
