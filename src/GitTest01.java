@@ -9,5 +9,10 @@ public class GitTest01 {
          * 对第一个版本的代码进行修改
          */
         System.out.println("hello change01");
+
+        /**
+         * 对第二个版本进行修改
+         */
+        System.out.println("hello change02");
     }
 }
