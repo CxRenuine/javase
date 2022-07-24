@@ -14,5 +14,10 @@ public class GitTest01 {
          * 对第二个版本进行修改
          */
         System.out.println("hello change02");
+
+        /**
+         * 在hot-fix分支上对代码进行第一次修改
+         */
+        System.out.println("hello hot-fix change01");
     }
 }
