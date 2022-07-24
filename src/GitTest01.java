@@ -30,5 +30,4 @@ public class GitTest01 {
          */
         System.out.println("master changeConflict");
     }
-
 }
