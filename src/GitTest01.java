@@ -19,5 +19,10 @@ public class GitTest01 {
          * 在hot-fix分支上对代码进行第一次修改
          */
         System.out.println("hello hot-fix change01");
+
+        /**
+         * 在hot-fix分支上对代码进行修改为了演示代码冲突
+         */
+        System.out.println("hello hot-fix conflictChange");
     }
 }
